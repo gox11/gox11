@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://gcddesigner.net/wp-content/uploads/2023/05/logobianboeste.png"  />
+  <img height="75" src="https://gcddesigner.net/wp-content/uploads/2023/05/logobianboeste.png"  />
 </div>
 
 ###
